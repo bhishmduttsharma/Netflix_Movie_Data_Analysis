@@ -86,6 +86,23 @@ The project includes visualizations such as:
 - Popularity Analysis
 - Movie Release Year Distribution
 
+- ## 📷 Project Screenshots
+
+### Genre Distribution
+![Genre Distribution](Screenshots/01_Genre_Distribution.png)
+
+### Vote Average Distribution
+![Vote Average Distribution](Screenshots/02_Vote_Average_Distribution.png)
+
+### Top Popular Movies
+![Top Popular Movies](Screenshots/03_Top_Popular_Movies.png)
+
+### Least Popular Movies
+![Least Popular Movies](Screenshots/04_Least_Popular_Movies.png)
+
+### Release Year Distribution
+![Release Year Distribution](Screenshots/05_Release_Year_Distribution.png)
+
 
 # Key Findings
 

@@ -89,7 +89,7 @@ The project includes visualizations such as:
 -## 📷 Project Screenshots
 
 ### Genre Distribution
-![Genre Distribution](./Screenshots/01_Genre_Distribution.png)
+![Genre Distribution](./Screenshorts/01_Genre_Distribution.png)
 
 ### Vote Average Distribution
 ![Vote Average Distribution](./Screenshots/02_Vote_Average_Distribution.png)
